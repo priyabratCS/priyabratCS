@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @priyabratCS
-- 👀 I’m interested in Computer Vision & AI
-- 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on Python Projects
+- 👀 I’m interested in full stack development and AI
+- 💞️ I’m looking to collaborate on Projects
 -    :) To reach me drop a mail at priyabratcee@gmail.com
 
 <!---
